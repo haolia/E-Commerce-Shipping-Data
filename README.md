@@ -5,12 +5,9 @@
 
 [<img align="justified" height="350" alt="🦑" src="https://user-images.githubusercontent.com/36781269/170517639-e71a7cd7-983f-491a-a8ea-fc36255d9e72.jpg">](#)
 
-## 🎯 Aim Of The Project
-<p> In this project, we will discuss and analyze Ecommers Shipping data whether the package will arrive late or on time. </P>
-  
 
+## 🪐 Data Description
 
-## Data Description
 > This dataset contains cleaned 10999 observations of 12 variables. 
 <p> ID                  : ID Number of Customers.</P>
 <p> Warehouse block     : The Company have big Warehouse which is divided in to block such as A,B,C,D,E.</P>
@@ -26,6 +23,13 @@
 <p> Reached on time     : It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time</P>
 
 
+## 🎯 Aim Of The Project
+> <p> In this project, we will discuss and analyze Ecommers Shipping data whether the package will arrive late or on time. </P>
+  
+
+
+
+
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/haolia)
@@ -36,7 +40,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
 
 
 
