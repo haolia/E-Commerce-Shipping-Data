@@ -12,7 +12,7 @@
 - ID                  : ID Number of Customers.
 - Warehouse block     : The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
 - Mode of shipment    : The Company Ships the products in multiple way such as Ship, Flight and Road.
-- ustomer care calls  : The number of calls made from enquiry for enquiry of the shipment.
+- Customer care calls  : The number of calls made from enquiry for enquiry of the shipment.
 - Customer rating     : The company has rated from every customer. 1 is the lowest (Worst), 5 is the highest (Best).
 - Cost of the product : Cost of the Product in US Dollars.
 - Prior purchases     : The Number of Prior Purchase.
