@@ -24,7 +24,7 @@
 
 
 ## 🎯 Aim Of The Project
-> <p> In this project, we will discuss and analyze Ecommers Shipping data whether the package will arrive late or on time. </P>
+> <p> In this project, we will discuss and analyze Ecommers Shipping data whether the delivery will on time or late. </P>
   
 
 
